@@ -1,0 +1,26 @@
+.h1{
+    text-align: center;
+}
+
+.h2{
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+    border-width: 2px;
+    width: 400px;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home{
+    position: relative; /* Position the button relative to the .h2 container */
+    bottom: -6px; /* Adjust distance from the bottom border */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+}
+
+.copy6{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}

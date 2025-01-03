@@ -1,0 +1,18 @@
+.h1{
+    text-align: center;
+}
+
+.terms002{
+    border: 1px solid black;
+    padding-left: 10px;
+}
+
+.home{
+    transform: translateY(-12px);
+}
+
+.copy9{
+    text-align: center;
+    position: relative;
+    top: 40px;
+}

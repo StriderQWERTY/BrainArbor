@@ -1,0 +1,22 @@
+.copy1{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+.buton{
+    display: flex;
+    gap: 10px;
+}
+
+.h1{
+    
+}
+
+.Disclaimer{
+    width: 60%;
+}
+
+.more{
+    width: 60%;
+}
